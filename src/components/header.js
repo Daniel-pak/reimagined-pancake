@@ -4,8 +4,8 @@ import { Text } from 'react-native';
 
 //Make a component
 const Header = () => {
-  return <Text>Albums</Text>;
+  return <Text>Albums!</Text>;
 };
 
 //Make the component available to other parts of the application
-export default Header; 
+export default Header;
