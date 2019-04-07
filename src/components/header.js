@@ -18,7 +18,7 @@ const styles = {
     backgroundColor: '#F8F8F8'
   },
   textStyle: {
-    fontSize: 20
+    fontSize: 25
   }
 };
 
