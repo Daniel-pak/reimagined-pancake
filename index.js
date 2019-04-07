@@ -5,7 +5,7 @@ import Header from './src/components/header'; //If creating custom components, n
 
 //create a component - The "App" Component
 const App = () => (
-  <Header />
+  <Header headerText={'Albums'} /> //passing in prop value to component
 );
 
 //render it to a device
