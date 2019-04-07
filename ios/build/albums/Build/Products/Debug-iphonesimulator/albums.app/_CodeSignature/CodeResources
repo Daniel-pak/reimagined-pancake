@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		J1iC5vv88/hl9HdusiaWMMj7mvU=
+		483+c2wVCSKQMFjvOeW9hxJdVoI=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
 		<data>
@@ -83,7 +83,7 @@
 		</data>
 		<key>PlugIns/albumsTests.xctest.dSYM/Contents/Resources/DWARF/albumsTests</key>
 		<data>
-		w1wogSnlkevqI/fdj79m89uyGz0=
+		z3Qu3h70U/suiXlkWTtjDFGW7w4=
 		</data>
 		<key>PlugIns/albumsTests.xctest/Info.plist</key>
 		<data>
@@ -95,7 +95,7 @@
 		</data>
 		<key>PlugIns/albumsTests.xctest/albumsTests</key>
 		<data>
-		kNmYpxJVFg2m1PhStWeZzc/D8hY=
+		t01jOENpIarWX3MoqpZTeH5P1NU=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -104,11 +104,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			J1iC5vv88/hl9HdusiaWMMj7mvU=
+			483+c2wVCSKQMFjvOeW9hxJdVoI=
 			</data>
 			<key>hash2</key>
 			<data>
-			qVdH5lfuJTGMG3zWgJ3sK8uwX/AE9AOZvVTDB4iCyU0=
+			YRJwyXNt+RKZnAPGj3+QfguAVOE5rytKcLWa/1AkDr0=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
@@ -282,11 +282,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w1wogSnlkevqI/fdj79m89uyGz0=
+			z3Qu3h70U/suiXlkWTtjDFGW7w4=
 			</data>
 			<key>hash2</key>
 			<data>
-			erG1w+GPYjwvPeidY8clcjCESn2FGvFn1HGFF0pPBDU=
+			2JfDhwSbi4YWzm9iry4ne444/GZS2f0eXIcXXpTTg00=
 			</data>
 		</dict>
 		<key>PlugIns/albumsTests.xctest/Info.plist</key>
@@ -315,11 +315,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kNmYpxJVFg2m1PhStWeZzc/D8hY=
+			t01jOENpIarWX3MoqpZTeH5P1NU=
 			</data>
 			<key>hash2</key>
 			<data>
-			7mkL+TSsh0ombBgylUsPPz+FpT8UTsQSUHKX4qGu22U=
+			CDrObzGzpuU4LjpWcf5+I3BWjiDRZuOBD+dJzOtJ/68=
 			</data>
 		</dict>
 	</dict>
