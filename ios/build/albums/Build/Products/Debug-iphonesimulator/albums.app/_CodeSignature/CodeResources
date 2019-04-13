@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		483+c2wVCSKQMFjvOeW9hxJdVoI=
+		l7Kg87iAhNScjn3W8x+nmZ1w80M=
 		</data>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
 		<data>
@@ -71,7 +71,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RNkchSJ2vd1vy+yc0BCByBeOt8E=
+		5Jh6dFEXwiwF1bDFcsRZDxkT/cs=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -83,7 +83,7 @@
 		</data>
 		<key>PlugIns/albumsTests.xctest.dSYM/Contents/Resources/DWARF/albumsTests</key>
 		<data>
-		z3Qu3h70U/suiXlkWTtjDFGW7w4=
+		mfY3b2ijpvnSmaZ+0YYSVOKyJ8I=
 		</data>
 		<key>PlugIns/albumsTests.xctest/Info.plist</key>
 		<data>
@@ -95,7 +95,7 @@
 		</data>
 		<key>PlugIns/albumsTests.xctest/albumsTests</key>
 		<data>
-		t01jOENpIarWX3MoqpZTeH5P1NU=
+		1hF6qNWHVuuYWJMw1kMoiGZn8yQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -104,11 +104,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			483+c2wVCSKQMFjvOeW9hxJdVoI=
+			l7Kg87iAhNScjn3W8x+nmZ1w80M=
 			</data>
 			<key>hash2</key>
 			<data>
-			YRJwyXNt+RKZnAPGj3+QfguAVOE5rytKcLWa/1AkDr0=
+			YDSWdbIZBVZ9a5pZXLGF7OgGc0oXIfzRFWnAqz9/66M=
 			</data>
 		</dict>
 		<key>Frameworks/XCTAutomationSupport.framework/Info.plist</key>
@@ -282,11 +282,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			z3Qu3h70U/suiXlkWTtjDFGW7w4=
+			mfY3b2ijpvnSmaZ+0YYSVOKyJ8I=
 			</data>
 			<key>hash2</key>
 			<data>
-			2JfDhwSbi4YWzm9iry4ne444/GZS2f0eXIcXXpTTg00=
+			AWj81pVxtkhglJMJKgRsbVHEi+TMQ4UxZhJsV5DQkug=
 			</data>
 		</dict>
 		<key>PlugIns/albumsTests.xctest/Info.plist</key>
@@ -315,11 +315,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			t01jOENpIarWX3MoqpZTeH5P1NU=
+			1hF6qNWHVuuYWJMw1kMoiGZn8yQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			CDrObzGzpuU4LjpWcf5+I3BWjiDRZuOBD+dJzOtJ/68=
+			J99Bmn1rr7ifFSTS2shOmsZynH14Rmn+CHQMdjMRBjA=
 			</data>
 		</dict>
 	</dict>
