@@ -1,13 +1,17 @@
 import React from 'react';
-import { View, Text } from 'react-native';
+import { Text } from 'react-native';
+import Card from './Card';
+import CardSection from './CardSection';
 
 //can be a functional method because we don't need a life cycle method nor state
 
 const AlbumDetail = (props) => {
   return (
-    <View>
-      <Text>{props.album.title}</Text>
-    </View>
+    <Card>
+      <CardSection>
+        <Text>{props.album.title}</Text>
+      </CardSection>  
+    </Card>
   )
 };
 
